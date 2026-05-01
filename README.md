@@ -24,9 +24,9 @@ This is my first local change to repo!
 
 [Link Text Google Homepage](https://www.google.com)
 
-![An image of a cat](https://placekitten.com/200/300)
+![An image of a cat](https://placecats.com/300/200)
 
-![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+![An image of the Mona Lisa](images/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
 Make sure to run `setup` first.
 
