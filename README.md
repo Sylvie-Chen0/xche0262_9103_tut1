@@ -1,8 +1,6 @@
 # Week 9 Quiz — Imaging Technique & Coding Technique
 
-## Overview
-
-This README presents my selected imaging inspiration and one coding technique that could help me develop a time-based abstract visual mechanic.
+*This README presents my selected imaging inspiration and one coding technique that could help me develop a time-based abstract visual mechanic.*
 
 ---
 
